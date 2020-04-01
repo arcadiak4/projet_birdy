@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Context>
+	<Resource name="jdbc/db" type="javax.sql.DataSource" 
+	maxActive="10" maxIdle="30"  maxWait="10000"
+	url="jdbc:mysql://localhost/celiadb"
+	driverClassName="com.mysql.cj.jdbc.Driver"
+	username="celia" password="aqwxszé" />
+</Context>
