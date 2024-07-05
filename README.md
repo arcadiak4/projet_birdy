@@ -1,5 +1,5 @@
 # Projet Birdy
-Implémentation de services web en Java d'un réseau social de Type Twitter.
+Implémentation de services web en Java d'un réseau social de type Twitter.
 
 ## Technologies utilisées :
 - Java pour le développement des services web :
